@@ -1684,7 +1684,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",lovenature-indi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",newsasia2-indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
