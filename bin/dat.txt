@@ -1682,7 +1682,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 
-
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",lovenature-indi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
@@ -1717,7 +1716,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",dis-indic
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",paramount-indic
 #KODIPROP:inputstream.adaptive.manifest_type=dash
