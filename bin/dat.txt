@@ -3,6 +3,13 @@
 #KODIPROP:http-reconnect=true
 #D:\\DIV00000.MP3
 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DENSTV",INAiC 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DENSTV",INAC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fdfd8490ecf3ae29956af0c60c3150d:cce6d3395b78e0aa8d251c66126e1868
