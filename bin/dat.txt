@@ -1842,11 +1842,11 @@ http://cdn09jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd?encp=&uid=&expp=&C
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",tawaftv-indi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn09jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+http://cdn09jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",indonesiana-indi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn09jtedge.indihometv.com/atm/DASH/indonesiana/manifest.mpd
+http://cdn09jtedge.indihometv.com/atm/DASH/indonesiana/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
 
 
