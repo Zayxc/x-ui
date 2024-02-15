@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DENSTV",INAC
@@ -1800,7 +1800,61 @@ https://cdnjt24.useetv.com/drm/live/smil:afc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3680de59582949ec9ba83a9ca0754997:9c755da9b7a14a85a6a69b0c7eec1880
 #https://cdnjkt4.transvision.co.id:1003/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",sctv-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",tvone-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",indosiar-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",transtv-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",trans7-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",antara-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/antara/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",mykids-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",boomerang-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",boomerang-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",kplus-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",tawaftv-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",indonesiana-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/indonesiana/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",warner-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/warner/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nusantaratv-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://cdn09jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
 
 #=========================================================================================================MALAY===============
@@ -2003,8 +2057,58 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:0e89f98197ce19de40c747650c7fe68c
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+#=========================================================================================================RADIO===============
 
 
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBO-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOFam-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOSig-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOHits-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",cinemax-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",Rtvp-Max 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://max.openwindows037.workers.dev/
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",NHK(Max)
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://?.openwindows037.workers.dev/
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f21c468-f2c0-444d-aee1-ed7339f40402)/manifest.mpd
 #=========================================================================================================RADIO===============
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="",Elshinta FM
