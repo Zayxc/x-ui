@@ -2049,6 +2049,13 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://max.openwindows037.workers.dev/
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+
+#EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",EuroNews(Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ea44b71507933cf86f9dd874acb57ad:8815b7fca109cadf2b5c8c99aefa365f
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(90ea43ad-2b29-45f1-94e2-d20299040ca1)/manifest.mpd
+
 #=========================================================================================================RADIO===============
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="",Elshinta FM
