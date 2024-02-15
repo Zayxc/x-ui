@@ -2053,8 +2053,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",NHK(Max)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f21c468-f2c0-444d-aee1-ed7339f40402)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://?.openwindows037.workers.dev/
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f21c468-f2c0-444d-aee1-ed7339f40402)/manifest.mpd
 #=========================================================================================================RADIO===============
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="",Elshinta FM
