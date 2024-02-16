@@ -1885,6 +1885,26 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/chunklist.m3u8
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",TLC-indi
 https://cdn09jtedge.indihometv.com/joss/133/tlc/chunklist.m3u8
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",hits-indi
+https://cdn09jtedge.indihometv.com/joss/133/hits/chunklist.m3u8
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",hitsmovie-indi
+https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/chunklist.m3u8
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nickjr-indi
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/chunklist.m3u8
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nickelodeon-indi
+https://cdn09jtedge.indihometv.com/joss/130/nickelodeon/chunklist.m3u8
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",paramount-indi
+https://cdn09jtedge.indihometv.com/joss/133/paramount/chunklist.m3u8
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",animax-indi
+https://cdn09jtedge.indihometv.com/joss/130/animax/chunklist.m3u8
+
+
+
 #=========================================================================================================MALAY===============
 
 #EXTINF:-1 group-title="MalaysiaTV" tvg-logo="",TV1
