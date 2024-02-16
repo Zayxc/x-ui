@@ -1401,6 +1401,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",rtv-indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",antv-indi
@@ -1648,6 +1649,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/dwtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
+
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",myfamily-indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#https://cdn08jtedge.indihometv.com/dassdvr/133/myfamily/manifest.mpd
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",newsasia-indi
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1908,6 +1914,8 @@ https://cdn09jtedge.indihometv.com/joss/133/horizonsport/chunklist.m3u8
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",mycinemaasia-indi
 https://cdn09jtedge.indihometv.com/joss/133/mycinemaasia/chunklist.m3u8
+
+
 
 #=========================================================================================================MALAY===============
 
