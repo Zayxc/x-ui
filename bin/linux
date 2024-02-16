@@ -1894,8 +1894,8 @@ https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/chunklist.m3u8
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nickjr-indi
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/chunklist.m3u8
 
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nickelodeon-indi
-https://cdn09jtedge.indihometv.com/joss/130/nickelodeon/chunklist.m3u8
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",insert-indi
+https://cdn09jtedge.indihometv.com/joss/130/insert/chunklist.m3u8
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",paramount-indi
 https://cdn09jtedge.indihometv.com/joss/133/paramount/chunklist.m3u8
@@ -1903,7 +1903,11 @@ https://cdn09jtedge.indihometv.com/joss/133/paramount/chunklist.m3u8
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",animax-indi
 https://cdn09jtedge.indihometv.com/joss/130/animax/chunklist.m3u8
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",horizonsport-indi
+https://cdn09jtedge.indihometv.com/joss/133/horizonsport/chunklist.m3u8
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",mycinemaasia-indi
+https://cdn09jtedge.indihometv.com/joss/133/mycinemaasia/chunklist.m3u8
 
 #=========================================================================================================MALAY===============
 
@@ -2121,28 +2125,28 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOFam-Max 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOSig-Max 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",HBOHits-Max 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 
 #EXTINF:-1 group-title="MaxstreamTV" tvg-logo="",cinemax-Max 
