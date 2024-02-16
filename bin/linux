@@ -1875,6 +1875,10 @@ https://cdn09jtedge.indihometv.com/atm/DASH/axn/manifest.mpd?encp=&uid=&expp=&CM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn13jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",aljazeera-indi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cdn09jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
+
 
 #=========================================================================================================MALAY===============
 
