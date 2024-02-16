@@ -1879,7 +1879,7 @@ https://cdn13jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd?encp=&uid=&expp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn09jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd?encp=&uid=&expp=&CMCD=ot=m,sf=d,sid="time",st=l
 
-#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",discovery-indi
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",Discovery-indi
 https://cdn09jtedge.indihometv.com/joss/133/disco/chunklist.m3u8
 
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",TLC-indi
