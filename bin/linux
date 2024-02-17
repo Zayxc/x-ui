@@ -1939,6 +1939,9 @@ https://cdn13jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",cnnindo-indi
 https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",nba-indic
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",AllPlay-Max
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
