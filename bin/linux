@@ -1927,6 +1927,9 @@ https://cdngb196.indihometv.com/atm/DASH/atv/manifest.mpd
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",zbioskop-indi
 https://cdngb196.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",jawapos-indi
+https://cdn12jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",AllPlay-Max
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
