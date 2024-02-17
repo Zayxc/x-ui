@@ -1909,6 +1909,9 @@ https://cdn09jtedge.indihometv.com/joss/133/horizonsport/chunklist.m3u8
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",TVRI-indi
 https://cdngb196.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
+#EXTINF:-1 group-title="IndihomeTV" tvg-logo="",MQTV-indi
+https://cdngb196.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
+
 #EXTINF:-1 group-title="IndihomeTV" tvg-logo="",AllPlay-Max
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
